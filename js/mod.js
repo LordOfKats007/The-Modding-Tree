@@ -1,7 +1,7 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
-	author: "nobody",
+	name: "The Infinitree",
+	id: "Omnion-SaveFileID",
+	author: "Omnion-0",
 	pointsName: "points",
 	discordName: "",
 	discordLink: "",
